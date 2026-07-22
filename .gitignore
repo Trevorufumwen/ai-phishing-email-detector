@@ -5,7 +5,7 @@ __pycache__/
 *.py[codz]
 *$py.class
 
-# C extensions
+#  extensions
 *.so
 
 # Distribution / packaging
@@ -78,7 +78,7 @@ docs/_build/
 target/
 
 # Jupyter Notebook
-.ipynb_checkpoints
+.ipynb_checkpoints/
 
 # IPython
 profile_default/
@@ -222,7 +222,6 @@ __marimo__/
 # Models 
 save_models/
 
->>>>>>> 8f35b52de28de9b78d0f70e0e683cdf4255691b0
 
 # Virtual environment
 venv/
