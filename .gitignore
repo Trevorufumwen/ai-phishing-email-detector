@@ -1,3 +1,5 @@
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -220,3 +222,15 @@ __marimo__/
 # Models 
 save_models/
 
+>>>>>>> 8f35b52de28de9b78d0f70e0e683cdf4255691b0
+
+# Virtual environment
+venv/
+
+# Large trained model
+saved_models/distilbert_phishing_model/model.safetensors
+
+# Large datasets
+data/processed/balanced_cleaned_emails.csv
+data/raw/eduphish_dataset.csv
+data/raw/enron_data_fraud_labeled.csv
