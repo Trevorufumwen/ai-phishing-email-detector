@@ -1,6 +1,6 @@
 # AI-Powered Phishing Email Detection System
 
-An AI-powered phishing email detection system developed as a final-year cybersecurity project. The application uses both traditional Machine Learning and modern Natural Language Processing techniques to classify emails as **Phishing** or **Legitimate**, while allowing users to compare model predictions through an interactive Streamlit interface.
+An AI-powered phishing email detection system developed as a final-year cybersecurity project. The application uses both traditional Machine Learning and modern Natural Language Processing techniques to classify emails as Phishing or Legitimate, while allowing users to compare model predictions through an interactive Streamlit interface.
 
 ---
 
@@ -31,7 +31,7 @@ A Streamlit web application was developed to demonstrate real-time email classif
 
 ---
 
-## 📸 Application Preview
+## Application Preview
 
 ### Home Screen
 
